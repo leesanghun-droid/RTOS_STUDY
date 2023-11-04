@@ -1,0 +1,7 @@
+C:\Users\ac837\Desktop\RTOS_STUDY\rtos_c_shap_test\rtos_c_shap_test\bin\Debug\rtos_c_shap_test.exe.config
+C:\Users\ac837\Desktop\RTOS_STUDY\rtos_c_shap_test\rtos_c_shap_test\bin\Debug\rtos_c_shap_test.exe
+C:\Users\ac837\Desktop\RTOS_STUDY\rtos_c_shap_test\rtos_c_shap_test\bin\Debug\rtos_c_shap_test.pdb
+C:\Users\ac837\Desktop\RTOS_STUDY\rtos_c_shap_test\rtos_c_shap_test\obj\Debug\rtos_c_shap_test.csproj.AssemblyReference.cache
+C:\Users\ac837\Desktop\RTOS_STUDY\rtos_c_shap_test\rtos_c_shap_test\obj\Debug\rtos_c_shap_test.csproj.CoreCompileInputs.cache
+C:\Users\ac837\Desktop\RTOS_STUDY\rtos_c_shap_test\rtos_c_shap_test\obj\Debug\rtos_c_shap_test.exe
+C:\Users\ac837\Desktop\RTOS_STUDY\rtos_c_shap_test\rtos_c_shap_test\obj\Debug\rtos_c_shap_test.pdb

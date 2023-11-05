@@ -9,7 +9,7 @@
 
 ## host vscode guide
 
->1. install vcxsrv
+>1. install vcxsrv ==> Display number=10 ==> Disable access control (checked) <br/>
 >2. ssh setting <br/>
     Host MADLEN_LINUX <br/>
     HostName 192.168.0.2 <br/>
@@ -17,4 +17,6 @@
     IdentityFile ~/.ssh/madlen_linux <br/>
     ForwardX11 yes <br/>
     ForwardX11Trusted yes <br/>
- 
+>3. 시스템 환경변수 설정 <br/>
+    DISPLAY<br/>
+    localhost:10.0<br/>

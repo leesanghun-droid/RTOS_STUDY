@@ -17,6 +17,7 @@
 
 - QEMU run
 
+    > ref. qemu =>> X11_menual
     > qemu-system-arm -M realview-pb-a8 -kernel navilos.axf -S -gdb tcp::1234,ipv4<br/>
     > install xming<br/>
     > gdb-multiarch navilos.axf<br/>
